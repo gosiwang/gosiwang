@@ -49,6 +49,17 @@
 
 ## 🚀 Projects
 
+### 🖥️ [sysmon](https://github.com/gosiwang/sysmon)
+> ncurses 기반 Linux 실시간 시스템 모니터
+
+- `/proc` 파일시스템 파싱으로 CPU·메모리·네트워크·프로세스 실시간 시각화
+- **ncurses** 컬러 TUI (사용률별 초록→노랑→빨강 자동 색상 변경)
+- 코어별 CPU% 델타 계산, 프로세스별 CPU%/MEM% 추적, 네트워크 KB/s 표시
+
+`C11` `ncurses` `/proc` `POSIX` `Linux`
+
+---
+
 ### 🔐 [SecureVault](https://github.com/gosiwang/securevault)
 > C11 기반 AES-256 암호키 관리 CLI 도구
 
@@ -101,14 +112,3 @@ me = {
     "fav_movie": "인터스텔라 (Interstellar) 🚀",
     "quote"    : "Do not go gentle into that good night."
 }
-```
-
----
-
-<div align="center">
-
-📫 **Contact** : [GitHub](https://github.com/gosiwang)
-
-*"우주의 끝까지 닿는 코드를 짜고 싶습니다."* 🌌
-
-</div>
