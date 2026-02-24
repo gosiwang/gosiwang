@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 gosiwang
+# 🌌 최진
 
 **`Backend & Systems Developer`**
 
